@@ -1,6 +1,6 @@
 # Javascript_Essentials_Project
 
-This is Mini-project that consists of three simple drop-down Menus with each menu changing a CSS property on a div element.
+This is a Mini-project that consists of three simple drop-down Menus with each menu changing a CSS property on a div element.
 
 It was created by Following a Javascript course on Udemy via the link Provided below:
 
